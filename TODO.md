@@ -1,0 +1,1 @@
+- [ ] Run comparisons between Pitching v.s. PitchingPost, same with Batting and BattingPost
