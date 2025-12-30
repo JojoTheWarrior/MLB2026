@@ -1,5 +1,5 @@
 # Measurements for Sabermetrics
-- [ ] WOBA (Weighted On-Base Average) measures hitter's overall offensive contribution by assigning values to walks, singles, doubles
+- [ ] WOBA (Weighted On-Base Average) measures **hitter's** overall offensive contribution by assigning values to walks, singles, doubles
 - [ ] ERA (Earned Run Average) shows how many runs a **pitcher** allows per 9 innings.
 
 # Rules
